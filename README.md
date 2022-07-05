@@ -1,2 +1,8 @@
-# Sandbox_HelloWord.github.io
+# Sandbox HelloWord
 Demonstration for Website Building
+
+---
+
+Checklist
+
+---
